@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"myproject/calculator" // Importing the correct package
 )
 
 func main() {
